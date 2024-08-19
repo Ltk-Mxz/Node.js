@@ -18,8 +18,8 @@ A todo application built with Node.js, Express.js, EJS template engine, and Mong
 Install MongoDb Database
 
 ```bash
-git clone https://github.com/Ltk-Mxz/todo-app.git
-cd todo-app
+git clone https://github.com/Ltk-Mxz/Node.js.git
+cd Todo-App
 npm install
 ```
 
